@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid white;
+}
+
+li button {
+  color: white;
+  background: url("https://www.freeiconspng.com/uploads/white-close-button-png-16.png");
+  float: right;
+}
+
+.complete {
+  opacity: .5;
+  text-decoration: line-through;
+}
